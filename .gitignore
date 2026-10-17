@@ -1,0 +1,15 @@
+.DS_Store
+._*
+.venv/
+.build-venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+.pytest_cache/
+logs/
+output.txt
+session.txt
+!examples/session.txt
+*.log
