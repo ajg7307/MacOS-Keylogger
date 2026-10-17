@@ -1,0 +1,6 @@
+pynput==1.8.2
+pyobjc-core==11.1; sys_platform == 'darwin'
+pyobjc-framework-Cocoa==11.1; sys_platform == 'darwin'
+pyobjc-framework-Quartz==11.1; sys_platform == 'darwin'
+pyobjc-framework-ApplicationServices==11.1; sys_platform == 'darwin'
+pyobjc-framework-CoreText==11.1; sys_platform == 'darwin'

@@ -1,0 +1,4 @@
+Monitoring ACTIVE — press Escape to stop.
+ji[DIGIT ENTERED][DIGIT ENTERED][SPACE]
+[MOUSE LEFT CLICK]
+Monitoring stopped.
